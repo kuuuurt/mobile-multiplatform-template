@@ -1,0 +1,3 @@
+rootProject.name = "Multiplatform App"
+include ':shared'
+include ':android:app'
