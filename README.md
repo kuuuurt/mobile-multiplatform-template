@@ -5,7 +5,9 @@ A simple template for Android and iOS projects
 ## Project Structure
 
 **android** - Android app
+
 **ios** - iOS app
+
 **shared** - Kotlin Multiplatform code
 
 ## Authors
